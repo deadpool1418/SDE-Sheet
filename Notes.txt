@@ -18,3 +18,12 @@ Day 1:
 	Reverse every row of matrix;
 8. Merge Overlapping Intervals :
 9. Merge Two Sorted arrays.
+
+Day 2:
+1.Find Missing Number:
+	Linked list cycle method
+	move fast by 2 and slow by 1 after collision set fast to start move fast by one slow by one return slow.
+2.Search In 2d Matrix:
+3. Pow(x,n):
+	Bineary exponentiation
+4. Majority Element (N/2):
